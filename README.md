@@ -4,6 +4,10 @@ An n8n workflow for managing shift confirmations and employee communication over
 
 The system sends shift details to workers, handles confirmations and declines, answers work-related questions, and escalates cases that need human attention.
 
+## Workflow overview
+
+![Workflow overview](assets/workflow%20overview.png)
+
 ## What it does
 
 * Sends scheduled WhatsApp messages with shift or event details
