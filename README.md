@@ -61,7 +61,7 @@ The AI agent is used for understanding worker questions and deciding when a case
 * WhatsApp Cloud API
 * OpenAI API
 * Google Sheets
-* Internal knowledge base
+* Google Docs (knowledge base)
 * JavaScript
 
 ## Validation and escalation
