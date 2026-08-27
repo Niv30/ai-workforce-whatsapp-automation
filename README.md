@@ -6,7 +6,7 @@ The system sends shift details to workers, handles confirmations and declines, a
 
 ## Workflow Overview
 
-![Workflow Overview](images/workflow.png)
+![Workflow Overview](workflow-overview.png)
 
 ## What it does
 
